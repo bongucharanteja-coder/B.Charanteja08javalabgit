@@ -10,7 +10,7 @@ class A {
     class OPP1 {
 		public static void main(String[] args){
      A x = new A();
-x.display();
+     x.display();
 	}	 
 	}
 		
